@@ -5,7 +5,7 @@ apt-get install \
     ca-certificates \
     curl \
     gnupg \
-    lsb-release
+    lsb-release -y
     
 #add gpg key
 mkdir -p /etc/apt/keyrings
