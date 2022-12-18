@@ -1,12 +1,7 @@
 #!/bin/bash
 
 apt-get update
-apt-get install \
-    ca-certificates \
-    curl \
-    gnupg \
-    lsb-release \
-    -y
+apt-get install ca-certificates curl gnupg lsb-release -y
     
 #add gpg key
 mkdir -p /etc/apt/keyrings
