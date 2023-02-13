@@ -15,3 +15,7 @@ Run the following command for automated Installation of Docker engine for Debian
 curl -sL https://raw.githubusercontent.com/lorimaju/lxc_docker_install/main/install.sh | bash
 ```
     
+Run the following command for automated Installation of Portainer
+```bash
+curl -sL https://raw.githubusercontent.com/lorimaju/lxc_docker_install/main/portainer.sh | bash
+```
